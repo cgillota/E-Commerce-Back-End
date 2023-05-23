@@ -4,6 +4,9 @@
   ## Description
    
   A back-end database for E-commerce. Users can GET, POST, PUT, and DELETE routes to view the data.  
+  
+  Walk Through video: https://drive.google.com/file/d/1Y5229LqtnV2jq8qXvQNkM7wwOazHlIas/view
+  
 
   ## Table of Contents
   *[Installation](#installation)
